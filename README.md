@@ -1,6 +1,5 @@
 ## A Hands-on Workshop series in Machine Learning 
-Time: **05:30-7:30 PM ** every **Wednesday** and **Friday** from **April 1st to 24th, 2020** (8 sessions in total)  
-Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC**   
+Time: **12-2 pm PST** every **Wednesday** and **Friday** from **Oct 13th** to **Oct 30th, 2020** (6 sessions in total)  
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
