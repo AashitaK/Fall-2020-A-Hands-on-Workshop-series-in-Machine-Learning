@@ -1,6 +1,8 @@
 ## A Hands-on Workshop series in Machine Learning 
 Time: **12-2 pm PST** every **Tuesday/Wednesday** and **Friday** from **Oct 13/14th** to **Oct 30th, 2020** (**6 sessions** in total)  
-**Note: Sorry for the confusion on the dates between Tuesday and Wednesday in the email announcement. As many students have already registered based on their reading of the dates, I am asking everyone to mark your availability on the two days, so that I will hold the sessions on one or both. The other session will certainly take place on Fridays from 12-2 pm PST.**
+**Note: Sorry for the confusion on the dates between Tuesday and Wednesday in the email announcement. The Tuesday session at 12-2 pm PST will also be repeated on Wednesday at 12-2 pm PST. You can choose to attend either session. The other session on Friday at 12-2 pm PST will be as it is.**
+
+[Here](https://forms.gle/k3sidBtcAikQziQU7) is an optional quiz for you to brush up your Python skills before the workshop: https://forms.gle/k3sidBtcAikQziQU7
 
 Seats are limited, please register using [this link](https://forms.gle/3pzMfL33dCkrFUHNA).
 
