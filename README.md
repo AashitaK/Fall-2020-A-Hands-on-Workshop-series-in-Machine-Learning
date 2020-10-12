@@ -24,7 +24,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 
 ### Topics to be covered:  
 
-#### Sessions 1:
+#### Sessions 1: (Tuesday, Oct 13th and Wednesday, Oct 14th)
 * Introduction to Jupyter Notebook
 * Pandas dataframes as a data structure
 * Indexing and slicing data frames
@@ -33,13 +33,13 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Detecting and filling missing values
 * Regular expressions for text mining
 
-#### Sessions 2:
+#### Sessions 2: (Friday, Oct 16th)
 * More on `pandas` - Groupby operations
 * Machine Learning algorithms: Decision Trees and Random Forest using `scikit-learn`
 * Underfitting and Overfitting to the training dataset; Model cross-validation 
 * Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
 
-#### Sessions 3:
+#### Sessions 3: (Tuesday, 20th and Wednesday, Oct 21st)
 * Machine Learning algorithms: 
     * Logistic Regression
     * Support Vector Machines (SVM) 
@@ -52,14 +52,14 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
     * F1-score
     * Area Under ROC curve 
 
-#### Session 4: 
+#### Session 4: (Friday, Oct 23rd)
 * Machine Learning algorithm: Linear Regression
 * Building the intuition of the training process and architecture of neural networks  
 * Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
 * Training a neural network on Election Dataset by [American National Election Study](https://electionstudies.org/)
 
-#### Session 5:
+#### Session 5: (Tuesday, 27th and Wednesday, Oct 28th)
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
 * Weight Initialization
@@ -68,7 +68,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
 * Application of the above concepts on Election Dataset by [American National Election Study](https://electionstudies.org/)
 
-#### Session 6: 
+#### Session 6: (Friday, Oct 30th)
 * Image preprocessing
 * Feature extraction using convolution filters
 * Convolution Neural Networks architecture (CNN)
