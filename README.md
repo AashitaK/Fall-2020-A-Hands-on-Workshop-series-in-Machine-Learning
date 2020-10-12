@@ -20,7 +20,7 @@ Each session of the workshop will build on the previous ones. It is important th
 4. Basics of Linear Algebra
 
 #### What to bring:  
-Please bring your laptop fully charged and with WiFi connection. Please [download and install Anaconda with Python 3.8 version](https://www.anaconda.com/products/individual) in your laptop ahead of the workshop.  
+Please bring your laptop fully charged and with WiFi connection. Please [download and install Anaconda with Python 3.8 version](https://www.anaconda.com/products/individual#Downloads) in your laptop ahead of the workshop.  
 
 ### Topics to be covered:  
 
