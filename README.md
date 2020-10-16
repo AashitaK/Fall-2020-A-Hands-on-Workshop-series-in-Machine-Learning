@@ -58,6 +58,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Training a neural network on Election Dataset by [American National Election Study](https://electionstudies.org/)
 
 #### Session 5: (Tuesday, 27th and Wednesday, Oct 28th)
+More on Neural networks
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
 * Weight Initialization
