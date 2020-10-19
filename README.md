@@ -37,7 +37,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Underfitting and Overfitting to the training dataset; Model cross-validation 
 * Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
 
-#### Sessions 3: (Tuesday, 20th and Wednesday, Oct 21st)
+#### Sessions 3: (Tuesday, Oct 20th and Wednesday, Oct 21st)
 * Machine Learning algorithms: 
     * Logistic Regression
     * Support Vector Machines (SVM) 
@@ -57,7 +57,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * A primer on `Keras`
 * Training a neural network on Election Dataset by [American National Election Study](https://electionstudies.org/)
 
-#### Session 5: (Tuesday, 27th and Wednesday, Oct 28th)
+#### Session 5: (Tuesday, Oct 27th and Wednesday, Oct 28th)
 More on Neural networks
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
